@@ -114,6 +114,7 @@
     width: 150px;
     height: 40px;
     background-color: #ffffff;
+    border: 1px solid #000000;
 }
 #about a {
   color: #000000;
